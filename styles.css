@@ -1,0 +1,26 @@
+
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+h1{
+    background-color: lightsalmon;
+    font-size: 36px;
+    text-align: center;
+
+}
+h2{
+    background-color: lightsalmon;
+}
+p{
+    background-color: lightcoral;
+}
+ul{
+    background-color: lightcoral;
+}
+li{
+    font-size: 16px;
+}
+ol{
+    background-color: lightcoral;
+}
